@@ -24,6 +24,6 @@ Permite realizar escaneos rápidos, detección de servicios y generación de rep
 ## Instalación
 
 ```bash
-git clone https://github.com/tu-usuario/kovscan.git
+git clone https://github.com/kobxl/kovscan.git
 cd kovscan
 chmod +x kovscan.sh
