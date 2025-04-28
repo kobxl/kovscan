@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # KovScan - Escáner de redes avanzado y profesional
-# Autor: Kovenix Cybersecurity
+# Autor: Kobxl
 # Fecha: 2025
 
 # Colores para mejorar la interfaz
